@@ -49,7 +49,7 @@ public class ActivityLog extends BaseUI {
 		return null;
 	}
 
-	/** For clicking on attachment tab **/
+	/** Click on attachment tab **/
 	public Attachments clickAttachmentsTab() {
 
 		clickOn(attachmentTab, 20);
